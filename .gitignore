@@ -1,0 +1,19 @@
+# Build output
+*.deb
+*.rpm
+*.buildinfo
+*.changes
+*.dsc
+*.tar.gz
+rpmbuild/
+debian/.debhelper/
+debian/files
+debian/pgf-postgres/
+**/.pytest_cache/
+**/__pycache__/
+
+# Editors
+*.swp
+.DS_Store
+.idea/
+.vscode/
