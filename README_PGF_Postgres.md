@@ -2,7 +2,6 @@
 
 > Linux-only, branded **meta-installer** for PostgreSQL with optional per-version packages.
 
-![POSTGRES 1st Logo](docs/assets/logo.png)
 
 PGF Postgres provides:
 
