@@ -221,6 +221,3 @@ Brand assets: place your logo at docs/assets/logo.png and update the README path
 
 To publish release artifacts, attach built .deb/.rpm files to a GitHub Release and include SHA256 checksums.
 
-perl
-Copy
-Edit
