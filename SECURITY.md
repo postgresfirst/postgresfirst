@@ -4,7 +4,7 @@
 We aim to keep the current release line secure. Older tags are **best effort**.
 
 ## Reporting a vulnerability
-Please email **security@postgresfirst.com** with details and a proof-of-concept if possible.
+Please email **indiasales@postgresfirst.com** with details and a proof-of-concept if possible.
 We will acknowledge receipt within 72 hours and coordinate a fix & disclosure timeline.
 
 ## Hardening notes
